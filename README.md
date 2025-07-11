@@ -1,5 +1,3 @@
-# stay_cation
-Tableau Dashboard for the stays in hotels in holidays
 # StayCatin Dashboard (Tableau Project)
 
 This Tableau project presents a dynamic and user-friendly dashboard for **StayCatin.com**, a property booking platform inspired by Airbnb. The dashboard enables users to explore and filter properties based on date availability, location, price, rating, and other preferences.
